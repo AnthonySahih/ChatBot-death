@@ -11,3 +11,7 @@ History:
     Sahih created his AI and used it for some time until 
 he mistakenly autodestructed his bot by giving it ultimate
 privileges. Stay safe coders <3
+
+Feel free to submit your stories about what happened to the bot, and the best one will be displayed below (with credits):
+https://forms.gle/tjXUigVZsgpSRVHT8
+
